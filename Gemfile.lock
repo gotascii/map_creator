@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    wx (0.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  wx
